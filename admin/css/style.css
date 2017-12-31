@@ -1,0 +1,139 @@
+.top-80{
+    top: 10px;
+	text-align: right;
+	}
+	.float-right{
+	float: right;
+	}
+.fonttext{
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: 600;
+    top: -2px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+	}
+.fontbutton{
+    font-size: 15px;
+    font-family: tahoma;
+    font-weight: 600;
+}
+	.background_image{
+	    background-image: url(css/112.jpg);
+		border: 1px solid black;
+		    background-size: cover;
+    padding: 66px;
+		}
+	.img_lan_index {
+    opacity: 0.7;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+}
+
+.img_lan_index:hover {
+    opacity: 1.0;
+    -webkit-transform: translate(0em,1em);
+    -moz-transform: translate(0em,1em);
+    -o-transform: translate(0em,1em);
+    -ms-transform: translate(0em,1em);
+    transform: translate(0em,1em)
+}
+.box{
+    float: right;
+    line-height: 40px;
+    text-align: -webkit-right;
+    margin-top: 19px;
+    font-size: 15px;
+    font-family: tahoma;
+    font-weight: 600;
+	  border-width:5px;	
+    border-style:inset;
+    padding: 2px 12px 10px 38px;
+	}
+.td_box_product{
+    background-color: #4B5848;
+    color: aliceblue;
+    font-family: tahoma;
+    font-size: 12px;
+    text-align: -webkit-right;
+}	
+.td_box_product2{
+    background-color: rgba(215, 254, 0, 0.24);
+    color: #051D31;
+    font-family: tahoma;
+    font-size: 12px;
+    text-align: -webkit-right;
+}	
+ .ss{
+float: left;
+  /* margin-left: 10px; */
+  margin: 10px;
+  border: 5px outset #2989BB;
+  padding: 3px;
+  background-color: rgb(231, 235, 237);
+  font-family: tahoma;
+  font-size: 13px;
+  width: 205px;
+}
+.boxhhh{
+  background-color: aliceblue;
+  margin-left: 20px;
+  margin-top: 10px;
+
+}
+.tdclass{
+  background-color: rgb(221, 229, 203);
+  box-shadow: 1px 1px 2px 1px rgb(163, 163, 131);
+  font-size: 17px;
+  font-family: tahoma;
+  
+  height: 33px;
+  padding: 5px;
+  color: black;
+}
+.tdclass2{
+  background-color: rgb(255, 255, 226);
+  box-shadow: 1px 1px 2px 1px rgb(163, 163, 131);
+  font-size: 17px;
+  font-family: tahoma;
+  direction: rtl;
+  height: 33px;
+  padding: 5px;
+  
+}
+.button2{
+margin: 5px;
+  width: 194px;
+  background-color: rgb(39, 255, 253);
+  font-family: tahoma;
+  color: black;;
+	
+}
+.button1{
+margin: 5px;
+  width: 194px;
+  background-color: rgb(255, 58, 39);
+  font-family: tahoma;
+  color: white;
+}
+.textarchive{
+	  height: 19px;
+  max-width: 101px;
+}
+.txtmenue{
+    font-size: 12px;
+    font-family: tahoma;
+    width: 110px;
+    font-weight: 600;
+	}
+.text_menu_email{
+font-size: 15px;
+    font-family: tahoma;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 13px;
+    color: red;
+	}
